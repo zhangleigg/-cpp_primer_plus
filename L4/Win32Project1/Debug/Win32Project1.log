@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\study\cpp\l4\win32project1\source.cpp(48): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+d:\study\cpp\l4\win32project1\source.cpp(53): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+  Win32Project1.vcxproj -> D:\Study\cpp\L4\Win32Project1\Debug\Win32Project1.exe
+  Win32Project1.vcxproj -> D:\Study\cpp\L4\Win32Project1\Debug\Win32Project1.pdb (Partial PDB)
